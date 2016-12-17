@@ -1,0 +1,6 @@
+name "rangefuse"
+description "fuse multiple algorithms in to a single pass"
+authors "John Colvin"
+copyright "Copyright © 2016, John Colvin"
+license "BSL"
+targetType "library"
